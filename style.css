@@ -136,8 +136,8 @@ p {
 }
 
 .box{
-    width: 150px; /* Ancho fijo */
-    height: 150px; /* Altura fija */
+    width: 160px; /* Ancho fijo */
+    height: 160px; /* Altura fija */
     border: 2px solid white;
     border-radius: 20px;
     padding: 10px;
